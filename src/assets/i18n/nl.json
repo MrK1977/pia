@@ -159,7 +159,7 @@
 				},
 				"title": "Bekende Problemen"
 			},
-			"footer": "TO BE TRANSLATED - If you have any other problems or suggestions for improvement, you can send them to us via this form <a target=\"_blank\" href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>."
+			"footer": "Andere problemen of verbetervoorstellen kan u melden via volgend formulier: <a target=\"_blank\" href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>."
 		},
 		"title": "Help"
 	},
@@ -170,11 +170,11 @@
 			"date": "Datum",
 			"evaluation": "Reviewen",
 			"import_pia": "Importeren PIA",
-			"import_structure": "TO BE TRANSLATED - Import template",
+			"import_structure": "Sjabloon importeren",
 			"item": {
 				"consult_pia": "PIA Raadplegen",
 				"edit_pia": "Aanpassen PIA",
-				"edit_structure": "TO BE TRANSLATED - Éditer le modèle",
+				"edit_structure": "Sjabloon aanpassen",
 				"tools": {
 					"action_plan": "Toon<br>actie plan",
 					"duplicate": "Dupliceren",
@@ -185,15 +185,15 @@
 				}
 			},
 			"new_pia": "Nieuwe PIA",
-			"new_structure": "TO BE TRANSLATED - Nouveau modèle",
+			"new_structure": "Nieuw sjabloon",
 			"or": "or",
 			"pia_name": "PIA",
 			"placeholder_author": "Voornaam, achternaam",
 			"placeholder_evaluation": "Voornaam, achternaam",
 			"placeholder_import_pia": "Importeren PIA",
-			"placeholder_import_structure": "TO BE TRANSLATED - Importer modèle",
+			"placeholder_import_structure": "Sjabloon importeren",
 			"placeholder_new_pia": "Nieuwe PIA",
-			"placeholder_new_structure": "TO BE TRANSLATED - Nouveau modèle",
+			"placeholder_new_structure": "Nieuw sjabloon",
 			"placeholder_pia_name": "Namen PIA's",
 			"placeholder_sector_name": "TO BE TRANSLATED - Intitulé du Secteur associé",
 			"placeholder_start": "Alle velden moeten worden ingevuld",
@@ -1265,7 +1265,7 @@
 				},
 				"3": {
 					"short_help": "Presenteer het advies van de persoon die verantwoordelijk is voor gegevensbescherming en privacykwesties (afgevaardigde gegevensbescherming indien aanwezig). Presenteer de standpunten van de betrokkenen of hun vertegenwoordigers.",
-					"title": "Menningen van DPO / FG en betrokken personen"
+					"title": "Meningen van DPO / FG en betrokken personen"
 				},
 				"4": {
 					"title": "Valideer de PIA"
